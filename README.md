@@ -71,52 +71,161 @@ Kitabi is a modern library management system built with Laravel. It features a c
 
 ## Screenshots & Demo
 
-### User Pages
+### User Interface Pages
 
 #### Home Page
 
-![Home Page Light Mode](KITABI SCREENSHOTS/HomePage.png)
-![Home Page Dark Mode](KITABI SCREENSHOTS/HomePage1.png)
-![Home Page French Dark Mode](KITABI SCREENSHOTS/HomePageFrDark.png)
+##### Home Page Light Mode
 
-#### Books Section
+![Home Page Light Mode](./screenshots/HomePage1.png)
 
-![Books Page](KITABI SCREENSHOTS/BooksPage.png)
-![Books Page Dark Mode](KITABI SCREENSHOTS/BooksPagedark.png)
-![Book Details Page](KITABI SCREENSHOTS/BookPage.png)
+##### Home Page French lang Dark Mode
 
-#### Best Sellers
+![Home Page French Dark Mode](./screenshots/HomePageFrDark.png)
 
-![Best Sellers Page](KITABI SCREENSHOTS/bestsellersPage.png)
+### Books Page
 
-#### Authentication
+##### Books Page Light Mode
 
-![Login Page](KITABI SCREENSHOTS/loginPage.png)
+![Books Page](./screenshots/BooksPage.png)
 
-### Admin Pages
+##### Books Page Dark Mode
 
-#### Dashboard
+![Books Page Dark Mode](./screenshots/BooksPagedark.png)
 
-![Admin Dashboard Light Mode](KITABI SCREENSHOTS/admin/dashboard.png)
-![Admin Dashboard Dark Mode](KITABI SCREENSHOTS/admin/dashboarddark.png)
+### Book Details Page
+
+![Book Details Page](./screenshots/BookPage.png)
+
+### Best Sellers Page
+
+##### Best Sellers Dark Mode
+
+![Best Sellers Page Dark Mode](./screenshots/bestsellersPageDarkFr.png)
+
+##### Best Sellers Light Mode
+
+![Best Sellers Page](./screenshots/bestsellersPage.png)
+
+### Categories Page
+
+##### Categories Light Mode
+
+![Categories Page](./screenshots/categoriesPage.png)
+
+##### Categories Dark Mode
+
+![Categories Page Dark Mode](./screenshots/categoriesPagedark.png)
+
+### Checkouts Page
+
+##### Checkouts Light Mode
+
+![Checkouts Page](./screenshots/checkoutsPage.png)
+
+##### Checkouts Dark Mode
+
+![Checkouts Page Dark Mode](./screenshots/checkoutsPageDark.png)
+
+### Authentication Pages
+
+##### User Login Page
+
+![Login Page](./screenshots/loginPage.png)
+
+##### Admin Login Page
+
+![Admin Login Page](./screenshots/admin/adminLoginPage.PNG)
+
+### Admin Dashboard Pages
+
+#### Main Dashboard
+
+##### Dashboard Light Mode
+
+![Admin Dashboard Light Mode](./screenshots/admin/dashboard.png)
+
+##### Dashboard Dark Mode
+
+![Admin Dashboard Dark Mode](./screenshots/admin/dashboarddark.png)
 
 #### Book Management
 
-![Admin Book Management](KITABI SCREENSHOTS/admin/adminbookpage.png)
+##### Books List View Light Mode
 
-#### Categories Management
+![Books List View](./screenshots/admin/dashboardBooksIndex.PNG)
 
-![Categories Page](KITABI SCREENSHOTS/categoriesPage.png)
+##### Books List View Dark Mode
 
-#### Checkouts Management
+![Books List View Dark Mode](./screenshots/admin/dashboardBooksIndexdarkfr.PNG)
 
-![Checkouts Page](KITABI SCREENSHOTS/checkoutsPage.png)
+##### Book Details View Light Mode
+
+![Book Details View](./screenshots/admin/dashboardBooksView.PNG)
+
+##### Book Details View Dark Mode
+
+![Book Details View Dark Mode](./screenshots/admin/dashboardBooksViewDark.PNG)
+
+##### Book Edit Page Light Mode
+
+![Book Edit Page](./screenshots/admin/dashboardBooksEdit.PNG)
+
+##### Book Edit Page Dark Mode
+
+![Book Edit Page Dark Mode](./screenshots/admin/dashboardBooksEditDark.PNG)
+
+#### Category Management
+
+##### Categories List View Light Mode
+
+![Categories List View](./screenshots/admin/dashboardcategoriesIndex.PNG)
+
+##### Categories List View Dark Mode
+
+![Categories List View Dark Mode](./screenshots/admin/dashboardcategoriesIndexDark.PNG)
+
+##### Category Details
+
+![Category Details View](./screenshots/admin/dashboardCtegoriesView.PNG)
+
+##### Add Book to a Category
+
+![Add Category View](./screenshots/admin/dashboardCtegoriesViewAdd.PNG)
+
+##### Add Category
+
+![Add Category Form](./screenshots/admin/dashboardCtegoriesAdd.PNG)
+
+##### Edit Category
+
+![Edit Category Form](./screenshots/admin/dashboardCtegoriesEdit.PNG)
+
+#### Checkout Management
+
+##### Checkouts
+
+![Checkouts List View](./screenshots/admin/dashboardcheckoutsIndex.PNG)
+
+##### Overdue Checkouts
+
+![Overdue Checkouts View](./screenshots/admin/dashboardcheOverdueckoutsIndex.PNG)
+
+#### User Management
+
+![Users List View](./screenshots/admin/dashboardusersIndex.PNG)
+
+#### Statistics and Reports
+
+##### Dashboard Statistics
+
+![Dashboard Statistics](./screenshots/admin/dashboardStatistics%20and%20Reports.PNG)
 
 ---
 
 ## Contact
 
-For questions or to discuss my work, reach me via [GitHub](https://github.com/salaheddineaz47) or email (see profile).
+For questions or to discuss my work, reach me via [GitHub](https://github.com/salaheddineaz47) or email : salaheddine.aitzenni@gmail.com .
 
 ---
 
