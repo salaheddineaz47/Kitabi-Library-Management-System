@@ -71,15 +71,46 @@ Kitabi is a modern library management system built with Laravel. It features a c
 
 ## Screenshots & Demo
 
-> **Tip:** Add your own screenshots or GIFs here to show off the UI and features!
->
-> - Home page (light/dark)
-> - Admin dashboard
-> - Book details
-> - FAQ section
-> - Best Sellers slider
+### User Pages
 
----
+#### Home Page
+
+![Home Page Light Mode](KITABI SCREENSHOTS/HomePage.png)
+![Home Page Dark Mode](KITABI SCREENSHOTS/HomePage1.png)
+![Home Page French Dark Mode](KITABI SCREENSHOTS/HomePageFrDark.png)
+
+#### Books Section
+
+![Books Page](KITABI SCREENSHOTS/BooksPage.png)
+![Books Page Dark Mode](KITABI SCREENSHOTS/BooksPagedark.png)
+![Book Details Page](KITABI SCREENSHOTS/BookPage.png)
+
+#### Best Sellers
+
+![Best Sellers Page](KITABI SCREENSHOTS/bestsellersPage.png)
+
+#### Authentication
+
+![Login Page](KITABI SCREENSHOTS/loginPage.png)
+
+### Admin Pages
+
+#### Dashboard
+
+![Admin Dashboard Light Mode](KITABI SCREENSHOTS/admin/dashboard.png)
+![Admin Dashboard Dark Mode](KITABI SCREENSHOTS/admin/dashboarddark.png)
+
+#### Book Management
+
+![Admin Book Management](KITABI SCREENSHOTS/admin/adminbookpage.png)
+
+#### Categories Management
+
+![Categories Page](KITABI SCREENSHOTS/categoriesPage.png)
+
+#### Checkouts Management
+
+![Checkouts Page](KITABI SCREENSHOTS/checkoutsPage.png)
 
 ---
 
